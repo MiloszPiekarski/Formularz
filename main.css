@@ -1,0 +1,93 @@
+body
+{
+	margin:0;
+	padding:0px 60px;
+	font-family:'Open Sans', sans-serif;
+	font-size:22px;
+	background-image: url("background.png");
+}
+
+input, select, textarea, button
+{
+	border-radius:5px;
+	cursor:pointer;
+}
+
+
+header
+{
+	margin-top:30px;
+	font-family:'Open Sans', sans-serif;
+	color:#36b03c;
+	font-weight:400;
+	font-size:50px;
+	margin-bottom:20px;
+	text-align:center;
+}
+
+fieldset
+{
+	border-radius:20px;
+	background-color:#F5F5F5;
+	margin-left:200px;
+	margin-right:200px; 
+	overflow-y: hidden;
+	box-shadow: 3px 3px 30px 5px rgba(220,220,220,2);
+}
+
+inf
+{
+	font-size:10px;
+}
+
+#zawartosc
+{
+	margin-left:40px; 
+}
+
+#dodatek
+{
+	font-size:13px;
+}
+
+#komentarz
+{
+	resize:none;
+}
+
+#przycisk
+{
+	text-align:center;
+}
+
+#reset
+{
+	text-align:center;
+	cursor:pointer;
+}
+
+input[type=submit]
+{
+	
+	margin-bottom:30px;
+	width:300px;
+	background-color:#36b03c;
+	color:white;
+	padding:15px 10px;
+	margin-top:10px;
+	border:none;
+	border-radius:5px;
+	cursor:pointer;
+	letter-spacing:2px;
+}
+
+#powrot
+{
+	margin-top:100px;
+	text-align:center;
+}
+
+#podziekowanie
+{
+	text-align:center;
+}
